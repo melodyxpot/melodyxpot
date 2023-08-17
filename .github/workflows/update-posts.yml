@@ -1,7 +1,7 @@
 name: Update Posts
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,6 +21,5 @@ jobs:
           feed_list: "https://blog.mk1.io/api/feed"
           max_post_count: "3"
           commit_message: "chore: update blog posts"
-          committer_email: "i@mk1.io"
-          committer_username: "so1ve"
-  
+          committer_email: "melodyxpot@gmail.com"
+          committer_username: "melodyxpot"
