@@ -43,7 +43,7 @@ React.js       15 mins       ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="github-snake" src="./assets/contribution-snake.svg" />
 </picture>
 
-### 📚 Latest Posts
+<!-- ### 📚 Latest Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
