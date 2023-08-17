@@ -2,13 +2,8 @@ name: Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-
-  # run on every push on the master branch
-  push:
-    branches:
-      - master
 
 jobs:
   generate-snake:
@@ -25,13 +20,9 @@ jobs:
           outputs: |
             assets/contribution-snake.svg
             assets/contribution-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: ":hammer: generate contribution snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
