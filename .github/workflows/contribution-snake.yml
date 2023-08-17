@@ -26,7 +26,7 @@ jobs:
             assets/contribution-snake.svg
             assets/contribution-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
@@ -34,4 +34,4 @@ jobs:
           branch: main
           message: ":hammer: generate contribution snake"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
