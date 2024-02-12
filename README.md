@@ -23,8 +23,6 @@
 
 <!--START_SECTION:waka-stats-->
 
-#### 🏊‍♂️ Weekly Development Breakdown
-
 ```text
 From: 04 February 2024 - To: 11 February 2024
 
