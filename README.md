@@ -9,17 +9,19 @@
 - [ ] 200 followers
 - [ ] 3 paid projects based on backend with Go
 
-### 🔭 Programming Language
+### Programming Language
 
 ![Programming Language](https://skillicons.dev/icons?i=javascript,golang,python,java)
 
-### Stack I use
+### 🔭 Stack I use
 
-![Stack I Use](https://skillicons.dev/icons?i=mui,tailwindcss,styledcomponents,nodejs,react,nextjs,vite,mongodb,mysql,supabase,postgres&perline=7)
+![Stack I Use](https://skillicons.dev/icons?i=mui,tailwindcss,styledcomponents,nodejs,react,nextjs,vite,supabase,mongodb,mysql,postgres&perline=11)
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,azure,docker,kubernetes,githubactions,postman,powershell&perline=7)
+![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell&perline=13)
+
+### 🏊‍♂️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-stats-->
 
