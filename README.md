@@ -19,7 +19,7 @@
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,vite,vercel,netlify,cloudflare,git,github,aws,githubactions)
 
-<!--START_SECTION:waka-simple-->
+<!--START_SECTION:waka-stats-->
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
@@ -35,4 +35,4 @@ Python                    126 hrs 6 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Other                     82 hrs 46 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.25 %
 ```
 
-<!--END_SECTION:waka-simple-->
+<!--END_SECTION:waka-stats-->
