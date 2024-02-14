@@ -17,6 +17,6 @@ jobs:
           COMMIT_MESSAGE: ":hammer: updated waka stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: last_7_days
-          SHOW_TIME: true
+          SHOW_TIME: false
           SHOW_MASKED_TIME: false
           SHOW_TITLE: true

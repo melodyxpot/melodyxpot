@@ -1,4 +1,4 @@
-## 👋 Hi
+## 👋 Hi, I am Dajour
 
 - 💎 I make something useful ~~or useless~~
 - 😍 JavaScript, Go Programmer
@@ -11,7 +11,7 @@
 
 ### Programming Language
 
-![Programming Language](https://skillicons.dev/icons?i=javascript,golang,python,java)
+![Programming Language](https://skillicons.dev/icons?i=typescript,golang,python,java)
 
 ### 🔭 Stack I use
 
