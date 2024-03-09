@@ -5,7 +5,7 @@
 
 ### ❤️ Goals for 2024
 
-- [ ] A 100+ stars project (I hope it will be [speech-chatwithfiles](https://github.com/melodyxpot/speech-chatwithfiles) or [next-chatbot](https://github.com/melodyxpot/next-chatbot))
+- Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipcis](https://xipics.com))
 - [ ] 200 followers
 - [ ] 3 paid projects based on backend with Go
 
@@ -20,18 +20,3 @@
 ### 🛠 Tools I use
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell&perline=13)
-
-### 🏊‍♂️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-stats-->
-
-```text
-From: 29 February 2024 - To: 07 March 2024
-
-TypeScript                                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.87 %
-JSON                                       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
-Bash                                       ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.49 %
-Other                                      ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.68 %
-```
-
-<!--END_SECTION:waka-stats-->
