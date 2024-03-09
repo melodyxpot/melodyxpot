@@ -5,7 +5,7 @@
 
 ### ❤️ Goals for 2024
 
-- Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipcis](https://xipics.com))
+- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipcis](https://xipics.com))
 - [ ] 200 followers
 - [ ] 3 paid projects based on backend with Go
 
