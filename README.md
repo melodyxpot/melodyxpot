@@ -5,7 +5,7 @@
 
 ### ❤️ Goals for 2024
 
-- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com))
+- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [ChatG App](https://app.chatg.com)))
 - [ ] 200 followers
 - [ ] 3 paid projects based on backend with Go
 
