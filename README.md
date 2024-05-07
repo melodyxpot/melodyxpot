@@ -1,4 +1,4 @@
-## 👋 Hi, I am Dajour
+## 👋 Hi
 
 - 💎 I make something useful ~~or useless~~
 - 😍 JavaScript, Go Programmer
