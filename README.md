@@ -3,11 +3,12 @@
 - 💎 I make something useful ~~or useless~~
 - 😍 JavaScript, Go Programmer
 
-### ❤️ Goals for 2024
+### ❤️ Goals for 2025
 
-- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [ChatG App](https://app.chatg.com), [MomoReis](https://momoreis10.com))
-- [ ] 200 followers
-- [ ] 3 paid projects based on backend with Go
+- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [ChatG App](https://app.chatg.com), [MomoReis](https://momoreis13.com))
+- [ ] Contribute to 5 Open Source communities.
+- [ ] 5 followers
+- [ ] 3 paid projects based on backend with Rust
 
 ### Programming Language
 
