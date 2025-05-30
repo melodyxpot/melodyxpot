@@ -5,7 +5,7 @@
 
 ### ❤️ Goals for 2025
 
-- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [MomoReis](https://momoreis13.com))
+- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [MomoReis](https://momoreis16.com))
 - [ ] Contribute to 5 Open Source communities.
 - [ ] 5 followers
 - [ ] 3 paid projects based on backend with Rust
