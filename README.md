@@ -20,4 +20,4 @@
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell&perline=13)
+![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell,sentry&perline=13)
