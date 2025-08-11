@@ -21,3 +21,6 @@
 ### 🛠 Tools I use
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,vercel,netlify,gcp,cloudflare,git,github,aws,nginx,azure,docker,kubernetes,githubactions,postman,powershell,sentry&perline=13)
+
+<!--START_SECTION:waka-stats-->
+<!--END_SECTION:waka-stats-->
