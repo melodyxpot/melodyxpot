@@ -6,9 +6,9 @@
 ### ❤️ Goals for 2025
 
 - [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [MomoReis](https://momoreis16.com))
+- [ ] Launch new NPM Package. ([React-Raffle-Hook](https://www.npmjs.com/package/react-raffle-hook/))
 - [ ] Contribute to 5 Open Source communities.
-- [ ] 5 followers
-- [ ] 3 paid projects based on backend with Rust
+- [ ] 20 followers
 
 ### Programming Language
 
