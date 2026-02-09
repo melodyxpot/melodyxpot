@@ -3,13 +3,6 @@
 - 💎 I make something useful ~~or useless~~
 - 😍 JavaScript, Go Programmer
 
-### ❤️ Goals for 2025
-
-- [ ] Launch new AI projects. ([StellaryAI](https://app.stellaryai.com), [Xipics](https://xipics.com), [MomoReis](https://momoreis16.com))
-- [ ] Launch new NPM Package. ([React-Raffle-Hook](https://www.npmjs.com/package/react-raffle-hook/))
-- [ ] Contribute to 5 Open Source communities.
-- [ ] 20 followers
-
 ### Programming Language
 
 ![Programming Language](https://skillicons.dev/icons?i=typescript,golang,python,java)
